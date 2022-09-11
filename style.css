@@ -9,6 +9,7 @@ body{
 	overflow: hidden;*/
 	position: relative;
 	max-height: 2000px;
+	overflow-x: hidden;
 }
 
 
